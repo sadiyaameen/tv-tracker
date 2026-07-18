@@ -46,6 +46,7 @@
       <h2>Menu</h2>
       <button class="sheet-item" id="syncNowBtn">☁️ Sync with Google Drive now</button>
       <button class="sheet-item" id="fetchBtn">🖼️ Fetch posters &amp; episode counts</button>
+      <button class="sheet-item" id="rematchBtn">🔁 Re-match all posters (fix wrong ones)</button>
       <button class="sheet-item" id="settingsBtn">⚙️ Settings (API keys)</button>
       <button class="sheet-item" id="exportBtn">⬇️ Export data (backup)</button>
       <button class="sheet-item" id="importBtn">⬆️ Import data</button>
@@ -60,7 +61,7 @@
     <div class="sheet-card">
       <h2 id="editTitle">Edit show</h2>
       <div id="tmdbSearchWrap" class="tmdb-search hidden">
-        <label>Find show (TMDB)
+        <label>Find / fix match (TMDB)
           <input id="tmdbQuery" type="text" placeholder="Type a show name to search…" autocomplete="off" />
         </label>
         <div id="tmdbResults" class="tmdb-results"></div>
