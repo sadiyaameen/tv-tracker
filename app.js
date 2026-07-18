@@ -174,11 +174,12 @@ function openEdit(show) {
   document.getElementById("f_favorite").checked = show ? !!show.favorite : false;
   document.getElementById("deleteBtn").style.display = show ? "" : "none";
 
-  // TMDB search only appears when adding a new show and a key is set.
+  // TMDB search: available when a key is set, for both adding and re-matching a show.
   const searchWrap = document.getElementById("tmdbSearchWrap");
-  document.getElementById("tmdbQuery").value = "";
   document.getElementById("tmdbResults").innerHTML = "";
-  searchWrap.classList.toggle("hidden", !!show || !TMDB.enabled());
+  // When editing, prefill the search with the current name so fixing a wrong poster is quick.
+  document.getElementById("tmdbQuery").value = show ? show.name : "";
+  searchWrap.classList.toggle("hidden", !TMDB.enabled());
 
   editSheet.classList.remove("hidden");
 }
@@ -437,8 +438,10 @@ function updateSyncStatus() {
 
 // ---------- backfill posters & episode counts from TMDB ----------
 let backfilling = false;
-document.getElementById("fetchBtn").addEventListener("click", async () => {
-  closeSheets();
+
+// force=false: only fill shows that are missing a poster/episode count.
+// force=true:  re-match every show, overwriting existing posters (fixes bad matches).
+async function runBackfill(force) {
   if (!TMDB.enabled()) {
     toast("Add your TMDB key in Settings first");
     return;
@@ -446,7 +449,9 @@ document.getElementById("fetchBtn").addEventListener("click", async () => {
   if (backfilling) return;
   backfilling = true;
 
-  const todo = state.shows.filter((s) => !s.poster || !s.totalEpisodes);
+  const todo = force
+    ? state.shows.slice()
+    : state.shows.filter((s) => !s.poster || !s.totalEpisodes);
   if (todo.length === 0) {
     toast("All shows already have posters");
     backfilling = false;
@@ -456,12 +461,12 @@ document.getElementById("fetchBtn").addEventListener("click", async () => {
   let done = 0;
   for (const s of todo) {
     try {
-      const results = await TMDB.search(s.name);
-      if (results[0]) {
-        s.tmdbId = results[0].tmdbId;
-        s.poster = results[0].poster || s.poster;
-        s.year = results[0].year || s.year;
-        const d = await TMDB.details(results[0].tmdbId);
+      const match = await TMDB.searchBest(s.name);
+      if (match) {
+        s.tmdbId = match.tmdbId;
+        if (match.poster) s.poster = match.poster;
+        if (match.year) s.year = match.year;
+        const d = await TMDB.details(match.tmdbId);
         if (d.totalEpisodes) s.totalEpisodes = d.totalEpisodes;
         if (d.poster) s.poster = d.poster;
       }
@@ -472,7 +477,7 @@ document.getElementById("fetchBtn").addEventListener("click", async () => {
     if (done % 10 === 0) {
       save({ sync: false });
       render();
-      toast(`Fetching… ${done}/${todo.length}`);
+      toast(`${force ? "Re-matching" : "Fetching"}… ${done}/${todo.length}`);
     }
     await sleep(140); // be gentle with the API
   }
@@ -480,11 +485,28 @@ document.getElementById("fetchBtn").addEventListener("click", async () => {
   render();
   toast(`Done — updated ${done} shows`);
   backfilling = false;
+}
+
+document.getElementById("fetchBtn").addEventListener("click", () => {
+  closeSheets();
+  runBackfill(false);
+});
+
+document.getElementById("rematchBtn").addEventListener("click", () => {
+  closeSheets();
+  if (!TMDB.enabled()) {
+    toast("Add your TMDB key in Settings first");
+    return;
+  }
+  if (confirm("Re-match posters for ALL shows? This overwrites current posters and may take a few minutes.")) {
+    runBackfill(true);
+  }
 });
 
 function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
+
 
 
 // close sheets on backdrop / cancel
