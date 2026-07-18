@@ -1,6 +1,6 @@
 // Simple offline cache so the app opens without a connection.
 // Bump CACHE_VERSION whenever you change app files to force an update.
-const CACHE_VERSION = "tv-tracker-v2";
+const CACHE_VERSION = "tv-tracker-v4";
 const APP_SHELL = [
   "./",
   "index.html",
