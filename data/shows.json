@@ -1,0 +1,7056 @@
+{
+  "version": 1,
+  "exportedAt": "2026-07-18T12:22:30.796Z",
+  "shows": [
+    {
+      "id": "315329",
+      "name": "1% of Something",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2016-11-27"
+    },
+    {
+      "id": "442528",
+      "name": "1122: For a Happy Marriage",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "272644",
+      "name": "12 Monkeys",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-07-21"
+    },
+    {
+      "id": "323168",
+      "name": "13 Reasons Why",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-09-16"
+    },
+    {
+      "id": "259016",
+      "name": "1600 Penn",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "333332",
+      "name": "20th Century Boy and Girl",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 31,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-10-09"
+    },
+    {
+      "id": "411959",
+      "name": "3 Body Problem",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "79488",
+      "name": "30 Rock",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 135,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-09-10"
+    },
+    {
+      "id": "82716",
+      "name": "90210",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 46,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "366433",
+      "name": "A Black Lady Sketch Show",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-06-14"
+    },
+    {
+      "id": "259456",
+      "name": "A Gentleman's Dignity",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-02"
+    },
+    {
+      "id": "424459",
+      "name": "A Girl & Her Guard Dog",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "424829",
+      "name": "A Killer Paradox",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "433631",
+      "name": "A Knight of the Seven Kingdoms",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "336912",
+      "name": "A Korean Odyssey",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-01-01"
+    },
+    {
+      "id": "306304",
+      "name": "A Series of Unfortunate Events",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-01-15"
+    },
+    {
+      "id": "378996",
+      "name": "A Suitable Boy",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-11-18"
+    },
+    {
+      "id": "251449",
+      "name": "A Thousand Kisses",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-07-01"
+    },
+    {
+      "id": "281588",
+      "name": "A to Z",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-08-18"
+    },
+    {
+      "id": "402910",
+      "name": "Abbott Elementary",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 79,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-03-03"
+    },
+    {
+      "id": "269593",
+      "name": "About a Boy",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 33,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-07-03"
+    },
+    {
+      "id": "452467",
+      "name": "Adolescence",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "449390",
+      "name": "Adults (2025)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "347507",
+      "name": "After Life",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-03-17"
+    },
+    {
+      "id": "412429",
+      "name": "Agatha All Along",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "366215",
+      "name": "Age of Samurai: Battle for Japan",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-02-27"
+    },
+    {
+      "id": "346744",
+      "name": "Aggretsuko",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-07"
+    },
+    {
+      "id": "376472",
+      "name": "Alice in Borderland (2020)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-12-22"
+    },
+    {
+      "id": "446149",
+      "name": "All Her Fault",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "336604",
+      "name": "Alone Together",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-09-23"
+    },
+    {
+      "id": "332331",
+      "name": "Altered Carbon",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-02-03"
+    },
+    {
+      "id": "74344",
+      "name": "American Dragon: Jake Long",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 52,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-01"
+    },
+    {
+      "id": "250487",
+      "name": "American Horror Story",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 66,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "309674",
+      "name": "Another Miss Oh",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-06-28"
+    },
+    {
+      "id": "301078",
+      "name": "Answer Me 1988",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 20,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2015-12-05"
+    },
+    {
+      "id": "273209",
+      "name": "Answer Me 1994",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-02-02"
+    },
+    {
+      "id": "207211",
+      "name": "Any Human Heart",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-09-11"
+    },
+    {
+      "id": "371028",
+      "name": "Arcane",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-02-10"
+    },
+    {
+      "id": "72173",
+      "name": "Arrested Development",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 73,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "257655",
+      "name": "Arrow",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 99,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "346798",
+      "name": "Asobi Asobase - workshop of fun -",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-05-03"
+    },
+    {
+      "id": "267440",
+      "name": "Attack on Titan",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "74852",
+      "name": "Avatar: The Last Airbender",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 61,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-05-23"
+    },
+    {
+      "id": "385925",
+      "name": "Avatar: The Last Airbender (2024)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "335559",
+      "name": "Avengers Social Club",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-10-22"
+    },
+    {
+      "id": "364106",
+      "name": "Avenue 5",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 17,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-01-12"
+    },
+    {
+      "id": "356417",
+      "name": "Awkwafina Is Nora From Queens",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-02-03"
+    },
+    {
+      "id": "249882",
+      "name": "Awkward.",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "417223",
+      "name": "Baby Reindeer",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "255907",
+      "name": "Bachelor's Vegetable Store",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-06-20"
+    },
+    {
+      "id": "455830",
+      "name": "Bait (2026)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "332155",
+      "name": "Banana Actually",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-09-20"
+    },
+    {
+      "id": "343384",
+      "name": "Banana Fish",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-07-09"
+    },
+    {
+      "id": "281270",
+      "name": "Barakamon",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "333072",
+      "name": "Barry",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-07"
+    },
+    {
+      "id": "262414",
+      "name": "Bates Motel",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "361013",
+      "name": "BEASTARS",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-01-05"
+    },
+    {
+      "id": "311200",
+      "name": "Beautiful Gong Shim",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-19"
+    },
+    {
+      "id": "335448",
+      "name": "Because This Is My First Life",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 4.5,
+      "status": "watching",
+      "addedAt": "2017-10-09"
+    },
+    {
+      "id": "399838",
+      "name": "BEEF",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-04-16"
+    },
+    {
+      "id": "424754",
+      "name": "Behind Your Touch",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-09-25"
+    },
+    {
+      "id": "313581",
+      "name": "Better Life Foundation",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-08-11"
+    },
+    {
+      "id": "305719",
+      "name": "Big Little Lies",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-04-14"
+    },
+    {
+      "id": "433790",
+      "name": "Big Mood",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "326297",
+      "name": "Bisht, Please!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-04-30"
+    },
+    {
+      "id": "83996",
+      "name": "Black Butler",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-16"
+    },
+    {
+      "id": "253463",
+      "name": "Black Mirror",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 35,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-12-28"
+    },
+    {
+      "id": "74796",
+      "name": "Bleach",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 462,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-01-19"
+    },
+    {
+      "id": "289677",
+      "name": "Blood (2015)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2016-08-30"
+    },
+    {
+      "id": "434151",
+      "name": "Blue Eye Samurai",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-11-15"
+    },
+    {
+      "id": "279554",
+      "name": "Blue Spring Ride",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-06-14"
+    },
+    {
+      "id": "349310",
+      "name": "Bodyguard (2018)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2018-10-25"
+    },
+    {
+      "id": "282254",
+      "name": "BoJack Horseman",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 77,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-08-14"
+    },
+    {
+      "id": "283836",
+      "name": "Boss & Me",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "454321",
+      "name": "Boyfriend on Demand",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "95371",
+      "name": "Boys Over Flowers (KR)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 25,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-06-12"
+    },
+    {
+      "id": "359606",
+      "name": "Brave New World (2020)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-03-07"
+    },
+    {
+      "id": "81189",
+      "name": "Breaking Bad",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2016-05-06"
+    },
+    {
+      "id": "366668",
+      "name": "Bridgerton",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 22,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-05-06"
+    },
+    {
+      "id": "311124",
+      "name": "Bring It On, Ghost",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-07-17"
+    },
+    {
+      "id": "275557",
+      "name": "Broad City",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-02-17"
+    },
+    {
+      "id": "266398",
+      "name": "Broadchurch",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "269586",
+      "name": "Brooklyn Nine-Nine",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 289,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "270059",
+      "name": "Brothers Conflict",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-02"
+    },
+    {
+      "id": "305075",
+      "name": "Bungo Stray Dogs",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-02-19"
+    },
+    {
+      "id": "249872",
+      "name": "Bunny Drop",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-12-13"
+    },
+    {
+      "id": "420783",
+      "name": "Bupkis",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-08-28"
+    },
+    {
+      "id": "404645",
+      "name": "Business Proposal",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-03-17"
+    },
+    {
+      "id": "345645",
+      "name": "Busted!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-05"
+    },
+    {
+      "id": "438640",
+      "name": "Butterfly (2025)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "412374",
+      "name": "Call of the Night",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "70668",
+      "name": "Cardcaptor Sakura",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 72,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-11-02"
+    },
+    {
+      "id": "441397",
+      "name": "Carol & the End of the World",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "354154",
+      "name": "Carole & Tuesday",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-08-30"
+    },
+    {
+      "id": "83462",
+      "name": "Castle (2009)",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 58,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "299350",
+      "name": "Casual",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-07-05"
+    },
+    {
+      "id": "397934",
+      "name": "Chainsaw Man",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-11-06"
+    },
+    {
+      "id": "328535",
+      "name": "Champions",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-12-08"
+    },
+    {
+      "id": "303738",
+      "name": "Cheese in the Trap",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-01-14"
+    },
+    {
+      "id": "388046",
+      "name": "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-11-07"
+    },
+    {
+      "id": "80348",
+      "name": "Chuck",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "313816",
+      "name": "Cinderella and Four Knights",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-08-19"
+    },
+    {
+      "id": "309893",
+      "name": "Class",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-10-16"
+    },
+    {
+      "id": "421974",
+      "name": "Colin from Accounts",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "306385",
+      "name": "Come Back, Mister",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-08-10"
+    },
+    {
+      "id": "260845",
+      "name": "Comedians in Cars Getting Coffee",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-12-07"
+    },
+    {
+      "id": "356931",
+      "name": "Comedians of the World",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-06"
+    },
+    {
+      "id": "349541",
+      "name": "Comicstaan",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-07-14"
+    },
+    {
+      "id": "94571",
+      "name": "Community",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 25,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "295686",
+      "name": "Cooper Barrett's Guide To Surviving Life",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-03"
+    },
+    {
+      "id": "94991",
+      "name": "Cougar Town",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-27"
+    },
+    {
+      "id": "337302",
+      "name": "Counterpart",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-12-10"
+    },
+    {
+      "id": "78131",
+      "name": "Coupling",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 28,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-04-19"
+    },
+    {
+      "id": "76885",
+      "name": "Cowboy Bebop",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-01-21"
+    },
+    {
+      "id": "367234",
+      "name": "Cowboy Bebop (2021)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-11-26"
+    },
+    {
+      "id": "368385",
+      "name": "Crash Landing on You",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-03-21"
+    },
+    {
+      "id": "295777",
+      "name": "Crazy Ex-Girlfriend",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-02-05"
+    },
+    {
+      "id": "315314",
+      "name": "Crisis in Six Scenes",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-04-07"
+    },
+    {
+      "id": "76203",
+      "name": "Curb Your Enthusiasm",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-01-05"
+    },
+    {
+      "id": "452711",
+      "name": "Daemons of the Shadow Realm",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "432832",
+      "name": "DAN DA DAN",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "474691",
+      "name": "Dandelion",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "334824",
+      "name": "Dark",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-08-03"
+    },
+    {
+      "id": "269793",
+      "name": "Dating Agency: Cyrano",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-01-19"
+    },
+    {
+      "id": "354905",
+      "name": "DAVE",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 30,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-03-12"
+    },
+    {
+      "id": "295760",
+      "name": "DC's Legends of Tomorrow",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2016-01-08"
+    },
+    {
+      "id": "361857",
+      "name": "Dead to Me",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-05-10"
+    },
+    {
+      "id": "79481",
+      "name": "Death Note",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "289177",
+      "name": "Death Parade",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-12-19"
+    },
+    {
+      "id": "435662",
+      "name": "Deli Boys",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "348545",
+      "name": "Demon Slayer: Kimetsu no Yaiba",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 63,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-10-25"
+    },
+    {
+      "id": "338903",
+      "name": "Derry Girls",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 25,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-12-23"
+    },
+    {
+      "id": "305327",
+      "name": "Descendants of the Sun",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-03-26"
+    },
+    {
+      "id": "73800",
+      "name": "Desperate Housewives",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-27"
+    },
+    {
+      "id": "426950",
+      "name": "Destined With You",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-09-29"
+    },
+    {
+      "id": "312505",
+      "name": "Dirk Gently's Holistic Detective Agency",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-12-22"
+    },
+    {
+      "id": "340234",
+      "name": "Disenchantment",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 49,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-08-18"
+    },
+    {
+      "id": "371820",
+      "name": "Dispatches from Elsewhere",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-01-19"
+    },
+    {
+      "id": "76107",
+      "name": "Doctor Who",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "78804",
+      "name": "Doctor Who (2005)",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 177,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "449991",
+      "name": "Doctor Who (2023)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "295697",
+      "name": "Documentary Now!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-04-01"
+    },
+    {
+      "id": "393739",
+      "name": "Doom at Your Service",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-05-25"
+    },
+    {
+      "id": "370761",
+      "name": "Dorohedoro",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 30,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-01-21"
+    },
+    {
+      "id": "354167",
+      "name": "Dororo (2019)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-07-23"
+    },
+    {
+      "id": "318845",
+      "name": "Dr. Romantic",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2016-12-31"
+    },
+    {
+      "id": "355774",
+      "name": "Dr. STONE",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-09-16"
+    },
+    {
+      "id": "263724",
+      "name": "Dracula (2013)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-02-23"
+    },
+    {
+      "id": "79357",
+      "name": "Drake & Josh",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 55,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2018-05-01"
+    },
+    {
+      "id": "310539",
+      "name": "Dramaworld",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-06-12"
+    },
+    {
+      "id": "314898",
+      "name": "Drinking Solo",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-10-15"
+    },
+    {
+      "id": "133341",
+      "name": "Durarara!!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-12-13"
+    },
+    {
+      "id": "455586",
+      "name": "Dynamite Kiss",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "328749",
+      "name": "Dynasty (2017)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2018-10-13"
+    },
+    {
+      "id": "314884",
+      "name": "Easy",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 25,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-06-19"
+    },
+    {
+      "id": "255316",
+      "name": "Elementary",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "430543",
+      "name": "Elsbeth",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "364439",
+      "name": "Emily in Paris",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-10-04"
+    },
+    {
+      "id": "309755",
+      "name": "Entertainer",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-04-14"
+    },
+    {
+      "id": "74543",
+      "name": "Entourage",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-11-22"
+    },
+    {
+      "id": "313818",
+      "name": "Entourage (KR)",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-11-22"
+    },
+    {
+      "id": "421652",
+      "name": "Eric (2024)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "434268",
+      "name": "Étoile",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "341351",
+      "name": "Evergreen (2018)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2018-03-12"
+    },
+    {
+      "id": "295238",
+      "name": "Exciting India",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-19"
+    },
+    {
+      "id": "294565",
+      "name": "EXO Next Door",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-09-02"
+    },
+    {
+      "id": "347903",
+      "name": "Explained",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 21,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-06-01"
+    },
+    {
+      "id": "419191",
+      "name": "Exploding Kittens",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "367122",
+      "name": "Extra-ordinary You",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "401147",
+      "name": "Extraordinary",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-01-31"
+    },
+    {
+      "id": "419950",
+      "name": "Extraordinary Attorney Woo",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-08-04"
+    },
+    {
+      "id": "114801",
+      "name": "Fairy Tail",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 260,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "260607",
+      "name": "Faith",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 19,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-06-14"
+    },
+    {
+      "id": "293516",
+      "name": "Falling in Love with Soon Jung",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-06"
+    },
+    {
+      "id": "315741",
+      "name": "Famous in Love",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-07-17"
+    },
+    {
+      "id": "269613",
+      "name": "Fargo",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-11"
+    },
+    {
+      "id": "324599",
+      "name": "Fight My Way",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-05-26"
+    },
+    {
+      "id": "332353",
+      "name": "Final Space",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-08-01"
+    },
+    {
+      "id": "78874",
+      "name": "Firefly",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "314614",
+      "name": "Fleabag",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 4.5,
+      "status": "watching",
+      "addedAt": "2017-03-16"
+    },
+    {
+      "id": "80252",
+      "name": "Flight of the Conchords",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 22,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-03-10"
+    },
+    {
+      "id": "264936",
+      "name": "Flower Boy Next Door",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-10"
+    },
+    {
+      "id": "309959",
+      "name": "Flowers",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-06-05"
+    },
+    {
+      "id": "350995",
+      "name": "Forever (2018)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-05-02"
+    },
+    {
+      "id": "80898",
+      "name": "FortySomething",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 4.5,
+      "status": "watching",
+      "addedAt": "2016-01-26"
+    },
+    {
+      "id": "357592",
+      "name": "Four More Shots Please!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2019-01-26"
+    },
+    {
+      "id": "362415",
+      "name": "Four Weddings and a Funeral",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-07-26"
+    },
+    {
+      "id": "76321",
+      "name": "Freaks and Geeks",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-31"
+    },
+    {
+      "id": "270065",
+      "name": "Free!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-01-19"
+    },
+    {
+      "id": "281618",
+      "name": "Fresh Off the Boat",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-25"
+    },
+    {
+      "id": "79168",
+      "name": "Friends",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 236,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "424536",
+      "name": "Frieren: Beyond Journey's End",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 39,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "82066",
+      "name": "Fringe",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 87,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-10"
+    },
+    {
+      "id": "78900",
+      "name": "Fruits Basket",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-06-13"
+    },
+    {
+      "id": "357488",
+      "name": "Fruits Basket (2019)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 87,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-12-15"
+    },
+    {
+      "id": "427281",
+      "name": "FUBAR",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-06-01"
+    },
+    {
+      "id": "75579",
+      "name": "Fullmetal Alchemist",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 19,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-12-15"
+    },
+    {
+      "id": "85249",
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 69,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-16"
+    },
+    {
+      "id": "73871",
+      "name": "Futurama",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "281619",
+      "name": "Galavant",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-10-10"
+    },
+    {
+      "id": "121361",
+      "name": "Game of Thrones",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "417909",
+      "name": "Gen V",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-11-14"
+    },
+    {
+      "id": "82234",
+      "name": "Ghost Stories",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "76568",
+      "name": "Gilmore Girls",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 153,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "311987",
+      "name": "Gilmore Girls: A Year in the Life",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-08-09"
+    },
+    {
+      "id": "79895",
+      "name": "Gintama",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 657,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-03-31"
+    },
+    {
+      "id": "465543",
+      "name": "Gintama - Mr. Ginpachi's Zany Class",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "395525",
+      "name": "Gintama The Semi-Final",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-08-08"
+    },
+    {
+      "id": "364388",
+      "name": "Giri/Haji",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-01-20"
+    },
+    {
+      "id": "220411",
+      "name": "Girls",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 52,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-18"
+    },
+    {
+      "id": "361218",
+      "name": "given",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-01-24"
+    },
+    {
+      "id": "318031",
+      "name": "Go Ho's Starry Night",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-10-14"
+    },
+    {
+      "id": "317220",
+      "name": "Goblin",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2016-12-02"
+    },
+    {
+      "id": "333801",
+      "name": "Godless",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-08-25"
+    },
+    {
+      "id": "328577",
+      "name": "Good Girls",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 55,
+      "rating": 4.5,
+      "status": "watching",
+      "addedAt": "2018-07-15"
+    },
+    {
+      "id": "359569",
+      "name": "Good Omens",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-05-31"
+    },
+    {
+      "id": "80547",
+      "name": "Gossip Girl",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2016-12-30"
+    },
+    {
+      "id": "274431",
+      "name": "Gotham",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "282562",
+      "name": "Grace and Frankie",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 81,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-01-21"
+    },
+    {
+      "id": "73762",
+      "name": "Grey's Anatomy",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2016-06-23"
+    },
+    {
+      "id": "393743",
+      "name": "Growing Season",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-12-28"
+    },
+    {
+      "id": "401582",
+      "name": "Hacks",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 46,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "450072",
+      "name": "Hana-Kimi",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "79317",
+      "name": "Hannah Montana",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 100,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-01"
+    },
+    {
+      "id": "259063",
+      "name": "Hannibal",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "314376",
+      "name": "Happy Marriage!?",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-09-04"
+    },
+    {
+      "id": "365677",
+      "name": "Harley Quinn",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 39,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-10-20"
+    },
+    {
+      "id": "306153",
+      "name": "Haven't You Heard? I'm Sakamoto",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-06-25"
+    },
+    {
+      "id": "358805",
+      "name": "Hazbin Hotel",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 15,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "288365",
+      "name": "Healer",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 17,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-11-14"
+    },
+    {
+      "id": "395494",
+      "name": "Heartstopper",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-06-20"
+    },
+    {
+      "id": "464461",
+      "name": "Heated Rivalry",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "273107",
+      "name": "Heirs",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "265609",
+      "name": "Hello Ladies",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "391246",
+      "name": "Helluva Boss",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "259948",
+      "name": "Hemlock Grove",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-02-07"
+    },
+    {
+      "id": "281659",
+      "name": "Her Lovely Heels",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-10-07"
+    },
+    {
+      "id": "359600",
+      "name": "Her Private Life",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-05-31"
+    },
+    {
+      "id": "371643",
+      "name": "High Fidelity",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-02-25"
+    },
+    {
+      "id": "434988",
+      "name": "High Potential",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "296433",
+      "name": "High Society (2015)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-03-29"
+    },
+    {
+      "id": "303103",
+      "name": "High-End Crush",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2016-12-07"
+    },
+    {
+      "id": "400319",
+      "name": "Hometown Cha-Cha-Cha",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-11-10"
+    },
+    {
+      "id": "274399",
+      "name": "Honest Trailers",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 157,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-03-10"
+    },
+    {
+      "id": "446877",
+      "name": "Honey Lemon Soda",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "313992",
+      "name": "Honobono Log",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "388593",
+      "name": "Horimiya",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-01-05"
+    },
+    {
+      "id": "162071",
+      "name": "Hot in Cleveland",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-08-03"
+    },
+    {
+      "id": "73255",
+      "name": "House",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 46,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "371572",
+      "name": "House of the Dragon",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 17,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-08-29"
+    },
+    {
+      "id": "401513",
+      "name": "How I Met Your Father",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 29,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-01-03"
+    },
+    {
+      "id": "75760",
+      "name": "How I Met Your Mother",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 208,
+      "rating": 4.5,
+      "status": "watching",
+      "addedAt": "2015-12-11"
+    },
+    {
+      "id": "268298",
+      "name": "How It Should Have Ended",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 83,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-12-09"
+    },
+    {
+      "id": "334451",
+      "name": "Howards End",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-09-06"
+    },
+    {
+      "id": "367934",
+      "name": "howl's moving castle",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-06-06"
+    },
+    {
+      "id": "370452",
+      "name": "Human Resources (2022)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-11-06"
+    },
+    {
+      "id": "257989",
+      "name": "Humsafar",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-08-29"
+    },
+    {
+      "id": "372081",
+      "name": "Hunters (2020)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-03-01"
+    },
+    {
+      "id": "311657",
+      "name": "Hwarang",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-12-06"
+    },
+    {
+      "id": "347246",
+      "name": "Hymn of Death",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-05"
+    },
+    {
+      "id": "454337",
+      "name": "I Love LA",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "362753",
+      "name": "I Think You Should Leave with Tim Robinson",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-12-21"
+    },
+    {
+      "id": "325892",
+      "name": "I'm Your Destiny",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-06-25"
+    },
+    {
+      "id": "302823",
+      "name": "Imaginary Cat",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-04-12"
+    },
+    {
+      "id": "384469",
+      "name": "Indian Matchmaking",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-07-29"
+    },
+    {
+      "id": "365098",
+      "name": "Inside Job",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 21,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-11-01"
+    },
+    {
+      "id": "425999",
+      "name": "Interior Chinatown",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "405535",
+      "name": "Interview With The Vampire",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "71361",
+      "name": "InuYasha",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 193,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "264025",
+      "name": "InuYasha: The Final Act",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-01-29"
+    },
+    {
+      "id": "321209",
+      "name": "Inuyashiki Last Hero",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-07-05"
+    },
+    {
+      "id": "368207",
+      "name": "INVINCIBLE (2021)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-12-14"
+    },
+    {
+      "id": "456099",
+      "name": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "283347",
+      "name": "It's Okay, That's Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-11-03"
+    },
+    {
+      "id": "281621",
+      "name": "Jane the Virgin",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 21,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "312024",
+      "name": "Jealousy Incarnate",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2016-10-29"
+    },
+    {
+      "id": "262954",
+      "name": "JoJo's Bizarre Adventure (2012)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-04-03"
+    },
+    {
+      "id": "336939",
+      "name": "Judge vs. Judge",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 17,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-11-24"
+    },
+    {
+      "id": "377543",
+      "name": "JUJUTSU KAISEN",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 59,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-12-28"
+    },
+    {
+      "id": "432093",
+      "name": "Jury Duty",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-06-29"
+    },
+    {
+      "id": "335825",
+      "name": "Just Between Lovers",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-12-13"
+    },
+    {
+      "id": "261249",
+      "name": "K Project",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "354198",
+      "name": "Kaguya-sama: Love Is War",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 49,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-05-25"
+    },
+    {
+      "id": "423075",
+      "name": "Kaiju No. 8",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 19,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "262106",
+      "name": "Kamisama Kiss",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 27,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-02"
+    },
+    {
+      "id": "365700",
+      "name": "KAOS",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "283117",
+      "name": "Kara: Secret Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2016-10-29"
+    },
+    {
+      "id": "370769",
+      "name": "Keep Your Hands Off Eizouken!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-05-15"
+    },
+    {
+      "id": "355827",
+      "name": "Kevin Can F**k Himself",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-12-05"
+    },
+    {
+      "id": "348841",
+      "name": "Kidding",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-11-13"
+    },
+    {
+      "id": "290369",
+      "name": "Kill Me, Heal Me",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-16"
+    },
+    {
+      "id": "340959",
+      "name": "Killing Eve",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 40,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-08-11"
+    },
+    {
+      "id": "78259",
+      "name": "Kim Possible",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 86,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-01"
+    },
+    {
+      "id": "315908",
+      "name": "Kim's Convenience",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 117,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-04-17"
+    },
+    {
+      "id": "117801",
+      "name": "Kimi ni Todoke: From Me to You",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 41,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "391992",
+      "name": "KinnPorsche",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-06-27"
+    },
+    {
+      "id": "316814",
+      "name": "Kiss Him, Not Me",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-11-13"
+    },
+    {
+      "id": "397860",
+      "name": "Koikimo",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-04-02"
+    },
+    {
+      "id": "455388",
+      "name": "Kowloon Generic Romance",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "330182",
+      "name": "Kyunki Saas Bhi Kabhi Bahu Thi",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-03"
+    },
+    {
+      "id": "447528",
+      "name": "Laid (US)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "349309",
+      "name": "Legacies",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 28,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-02-21"
+    },
+    {
+      "id": "360738",
+      "name": "Leila",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-06-19"
+    },
+    {
+      "id": "440965",
+      "name": "Let's Play",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "319895",
+      "name": "Little Things",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-09-28"
+    },
+    {
+      "id": "412088",
+      "name": "Little Women (2022)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-10-24"
+    },
+    {
+      "id": "368523",
+      "name": "Living with Yourself",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-10-20"
+    },
+    {
+      "id": "364495",
+      "name": "Locked Up: The Oasis",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-08-02"
+    },
+    {
+      "id": "362472",
+      "name": "Loki",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-06-12"
+    },
+    {
+      "id": "417559",
+      "name": "Loot",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 23,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-07-16"
+    },
+    {
+      "id": "305378",
+      "name": "Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 33,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-03-13"
+    },
+    {
+      "id": "310202",
+      "name": "Love Detective Sherlock K",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-04"
+    },
+    {
+      "id": "320719",
+      "name": "Love for a Thousand More",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-12-12"
+    },
+    {
+      "id": "419619",
+      "name": "Love in Contract",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-10-01"
+    },
+    {
+      "id": "310379",
+      "name": "Love in the Moonlight",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-08-27"
+    },
+    {
+      "id": "374515",
+      "name": "Love Life",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-02-03"
+    },
+    {
+      "id": "302020",
+      "name": "Love Me If You Dare",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "332666",
+      "name": "Love Temperature",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 28,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-09-25"
+    },
+    {
+      "id": "414037",
+      "name": "Love to Hate You",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-02-10"
+    },
+    {
+      "id": "357888",
+      "name": "Love, Death & Robots",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 60,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-03-22"
+    },
+    {
+      "id": "80901",
+      "name": "Lovely Complex",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-04-02"
+    },
+    {
+      "id": "432989",
+      "name": "Lovely Runner",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "392076",
+      "name": "Lovestruck in the City",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-12-28"
+    },
+    {
+      "id": "295685",
+      "name": "Lucifer",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 83,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-12"
+    },
+    {
+      "id": "310416",
+      "name": "Lucky Romance",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2016-05-25"
+    },
+    {
+      "id": "80337",
+      "name": "Mad Men",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-05"
+    },
+    {
+      "id": "359887",
+      "name": "Made in Heaven",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-03-19"
+    },
+    {
+      "id": "478706",
+      "name": "Made In India: A Titan Story",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "402909",
+      "name": "Maggie (2022)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-01-11"
+    },
+    {
+      "id": "148151",
+      "name": "Maid Sama!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-22"
+    },
+    {
+      "id": "339333",
+      "name": "Man Like Mobeen",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-05-02"
+    },
+    {
+      "id": "323918",
+      "name": "Man to Man",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-04-22"
+    },
+    {
+      "id": "330668",
+      "name": "Manhole",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-09-23"
+    },
+    {
+      "id": "350864",
+      "name": "Maniac (2018)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-10-12"
+    },
+    {
+      "id": "266091",
+      "name": "Marco Polo",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-07-17"
+    },
+    {
+      "id": "370112",
+      "name": "Mare of Easttown",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-05-23"
+    },
+    {
+      "id": "468734",
+      "name": "MARRIAGETOXIN",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "430595",
+      "name": "Marry My Husband",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "281662",
+      "name": "Marvel's Daredevil",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "320558",
+      "name": "Marvel's Inhumans",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-12-16"
+    },
+    {
+      "id": "317953",
+      "name": "Marvel's Iron Fist",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-22"
+    },
+    {
+      "id": "284190",
+      "name": "Marvel's Jessica Jones",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2015-11-25"
+    },
+    {
+      "id": "304219",
+      "name": "Marvel's Luke Cage",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-10"
+    },
+    {
+      "id": "326490",
+      "name": "Marvel's The Defenders",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-09-13"
+    },
+    {
+      "id": "386562",
+      "name": "Masaba Masaba",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-08-28"
+    },
+    {
+      "id": "421737",
+      "name": "MASHLE: MAGIC AND MUSCLES",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 25,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "298901",
+      "name": "Master of None",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "261557",
+      "name": "Masters of Sex",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-05"
+    },
+    {
+      "id": "454525",
+      "name": "May I Ask for One Final Thing?",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "331285",
+      "name": "Meloholic",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-11-08"
+    },
+    {
+      "id": "368108",
+      "name": "Melting Me Softly",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-09-29"
+    },
+    {
+      "id": "83123",
+      "name": "Merlin",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "328708",
+      "name": "MINDHUNTER",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 19,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-09-02"
+    },
+    {
+      "id": "342818",
+      "name": "Miracle Workers",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-05-05"
+    },
+    {
+      "id": "123721",
+      "name": "Miranda",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-29"
+    },
+    {
+      "id": "320465",
+      "name": "Missing Nine",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-01-19"
+    },
+    {
+      "id": "307375",
+      "name": "Mob Psycho 100",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 32,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "357222",
+      "name": "Modern Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-10-19"
+    },
+    {
+      "id": "104081",
+      "name": "Monday Monday",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-26"
+    },
+    {
+      "id": "327417",
+      "name": "Money Heist",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-04-05"
+    },
+    {
+      "id": "78490",
+      "name": "Monk",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "74599",
+      "name": "Monster",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-02-27"
+    },
+    {
+      "id": "389492",
+      "name": "Monster (2022)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-09-23"
+    },
+    {
+      "id": "279804",
+      "name": "Monthly Girls' Nozaki-kun",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2016-11-23"
+    },
+    {
+      "id": "368611",
+      "name": "Moon Knight",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-05-06"
+    },
+    {
+      "id": "386736",
+      "name": "Mr. Heart",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-11-16"
+    },
+    {
+      "id": "433713",
+      "name": "Mr. Plankton",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "391392",
+      "name": "Mr. Queen",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-04-12"
+    },
+    {
+      "id": "289590",
+      "name": "Mr. Robot",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-01-07"
+    },
+    {
+      "id": "342848",
+      "name": "Mr. Sunshine (2018)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 15,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-07-15"
+    },
+    {
+      "id": "368612",
+      "name": "Ms. Marvel",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-06-27"
+    },
+    {
+      "id": "273820",
+      "name": "Mulaney",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2023-08-29"
+    },
+    {
+      "id": "443396",
+      "name": "Murderbot",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "401233",
+      "name": "My Dress-Up Darling",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "389971",
+      "name": "My Fuxxxxx Romance",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-12-28"
+    },
+    {
+      "id": "305074",
+      "name": "My Hero Academia",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 152,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-11-02"
+    },
+    {
+      "id": "352356",
+      "name": "My Hero,My Daddy",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "372809",
+      "name": "My Holo Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-02-07"
+    },
+    {
+      "id": "426829",
+      "name": "My Lady Jane",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "262107",
+      "name": "My Little Monster",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-10-30"
+    },
+    {
+      "id": "423413",
+      "name": "My Love Story With Yamada-kun at Lv999",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-04-08"
+    },
+    {
+      "id": "341871",
+      "name": "My Mister",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-16"
+    },
+    {
+      "id": "397441",
+      "name": "My Name",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-12-25"
+    },
+    {
+      "id": "329016",
+      "name": "My Only Love Song",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-06-14"
+    },
+    {
+      "id": "397756",
+      "name": "My Roommate is a Gumiho",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-07-23"
+    },
+    {
+      "id": "325461",
+      "name": "My Secret Romance",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-04-19"
+    },
+    {
+      "id": "401874",
+      "name": "My Senpai Is Annoying",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 17,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-11-26"
+    },
+    {
+      "id": "321104",
+      "name": "My Shy Boss",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-01-27"
+    },
+    {
+      "id": "282670",
+      "name": "Narcos",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-09-05"
+    },
+    {
+      "id": "353232",
+      "name": "Narcos: Mexico",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-10-18"
+    },
+    {
+      "id": "79824",
+      "name": "Naruto Shippuden",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-27"
+    },
+    {
+      "id": "378746",
+      "name": "Never Have I Ever",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 40,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-04-27"
+    },
+    {
+      "id": "398079",
+      "name": "Nevertheless,",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-06-19"
+    },
+    {
+      "id": "248682",
+      "name": "New Girl",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 146,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "436590",
+      "name": "No Gain No Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "311957",
+      "name": "No Tomorrow",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-04"
+    },
+    {
+      "id": "450093",
+      "name": "Nobody Wants This",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "275610",
+      "name": "Noragami",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "371806",
+      "name": "Normal People",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 15,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-06-26"
+    },
+    {
+      "id": "339968",
+      "name": "Not All Right, But It’s Alright",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-08-04"
+    },
+    {
+      "id": "418389",
+      "name": "Not Dead Yet",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 22,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "460383",
+      "name": "Not Suitable for Work",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "455086",
+      "name": "Off Campus",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "296841",
+      "name": "Oh My Ghost",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-14"
+    },
+    {
+      "id": "302686",
+      "name": "Oh My Venus",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "312466",
+      "name": "On the Way to the Airport",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-07-23"
+    },
+    {
+      "id": "248835",
+      "name": "Once Upon a Time (2011)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 73,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-06-07"
+    },
+    {
+      "id": "318363",
+      "name": "One Day at a Time (2017)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 39,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-05-19"
+    },
+    {
+      "id": "81797",
+      "name": "One Piece",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-01-26"
+    },
+    {
+      "id": "392276",
+      "name": "ONE PIECE (2023)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-09-09"
+    },
+    {
+      "id": "293088",
+      "name": "One-Punch Man",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 33,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-01-26"
+    },
+    {
+      "id": "319999",
+      "name": "Onihei",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-07-05"
+    },
+    {
+      "id": "399959",
+      "name": "Only Murders in the Building",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 50,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-08-01"
+    },
+    {
+      "id": "264586",
+      "name": "Orange Is the New Black",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-09-03"
+    },
+    {
+      "id": "295007",
+      "name": "Orange Marmalade",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2016-04-29"
+    },
+    {
+      "id": "350498",
+      "name": "Origin",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-10-20"
+    },
+    {
+      "id": "267620",
+      "name": "Otona Joshi no Anime Time",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-11-26"
+    },
+    {
+      "id": "398815",
+      "name": "Our Beloved Summer",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-12-23"
+    },
+    {
+      "id": "390093",
+      "name": "Our Flag Means Death",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-11-26"
+    },
+    {
+      "id": "444739",
+      "name": "Our Unwritten Seoul",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "79713",
+      "name": "Ouran High School Host Club",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-06-09"
+    },
+    {
+      "id": "270408",
+      "name": "Outlander",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-06"
+    },
+    {
+      "id": "163561",
+      "name": "Outsourced",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 22,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-01-10"
+    },
+    {
+      "id": "261284",
+      "name": "Parade's End",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-01-26"
+    },
+    {
+      "id": "79233",
+      "name": "Paradise Kiss",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-01-26"
+    },
+    {
+      "id": "470864",
+      "name": "Pardon the Intrusion, I'm Home!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "84912",
+      "name": "Parks and Recreation",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 101,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "338946",
+      "name": "Patrick Melrose",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-01-07"
+    },
+    {
+      "id": "351269",
+      "name": "Patriot Act with Hasan Minhaj",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-11-04"
+    },
+    {
+      "id": "391153",
+      "name": "Peacemaker",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "270915",
+      "name": "Peaky Blinders",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 30,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-12-18"
+    },
+    {
+      "id": "410620",
+      "name": "Peng",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-10-14"
+    },
+    {
+      "id": "265766",
+      "name": "Penny Dreadful",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "457394",
+      "name": "Perfect Crown",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "289639",
+      "name": "Permanent Roommates",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-10-13"
+    },
+    {
+      "id": "248742",
+      "name": "Person of Interest",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "81848",
+      "name": "Phineas and Ferb",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 113,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-01"
+    },
+    {
+      "id": "199391",
+      "name": "Playful Kiss",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-06-08"
+    },
+    {
+      "id": "436457",
+      "name": "PLUR1BUS",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "398822",
+      "name": "Poker Face (2023)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-01-31"
+    },
+    {
+      "id": "146711",
+      "name": "Pretty Little Liars",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 21,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "406256",
+      "name": "Pretty Smart",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-08-28"
+    },
+    {
+      "id": "71691",
+      "name": "Pride and Prejudice",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "75340",
+      "name": "Prison Break",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 15,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-03-19"
+    },
+    {
+      "id": "250770",
+      "name": "Protect the Boss",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2016-08-19"
+    },
+    {
+      "id": "339306",
+      "name": "Pushpavalli",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-03"
+    },
+    {
+      "id": "425204",
+      "name": "Queen Charlotte: A Bridgerton Story",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-05-06"
+    },
+    {
+      "id": "327485",
+      "name": "Queen For Seven Days",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2017-06-01"
+    },
+    {
+      "id": "426814",
+      "name": "Queen of Tears",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "325407",
+      "name": "Queen of the Ring",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-21"
+    },
+    {
+      "id": "438791",
+      "name": "Queenie (2024)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "323922",
+      "name": "Radiant Office",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-19"
+    },
+    {
+      "id": "359257",
+      "name": "Ramy",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-01-20"
+    },
+    {
+      "id": "451479",
+      "name": "Ranma ½ (2024)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "269602",
+      "name": "Reign (2013)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "335068",
+      "name": "Revolutionary Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-09-30"
+    },
+    {
+      "id": "275274",
+      "name": "Rick and Morty",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-08-30"
+    },
+    {
+      "id": "347929",
+      "name": "Rilakkuma and Kaoru",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-09-27"
+    },
+    {
+      "id": "429920",
+      "name": "Rivals (2024)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "311954",
+      "name": "Riverdale",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-02-05"
+    },
+    {
+      "id": "323658",
+      "name": "Romance Full of Life",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-02-22"
+    },
+    {
+      "id": "423787",
+      "name": "Romantic Killer",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-11-05"
+    },
+    {
+      "id": "447454",
+      "name": "Romantics Anonymous",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "323234",
+      "name": "Ruby Ruby Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-02-02"
+    },
+    {
+      "id": "322388",
+      "name": "Ruler: Master of the Mask",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-07-05"
+    },
+    {
+      "id": "353882",
+      "name": "Run (2020)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-04-11"
+    },
+    {
+      "id": "325091",
+      "name": "Run BTS!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-30"
+    },
+    {
+      "id": "450102",
+      "name": "Running Point",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "356640",
+      "name": "Russian Doll",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-02-02"
+    },
+    {
+      "id": "462241",
+      "name": "S Line",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "343435",
+      "name": "Sacred Games",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-07-29"
+    },
+    {
+      "id": "79089",
+      "name": "Samurai Champloo",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-01-21"
+    },
+    {
+      "id": "404886",
+      "name": "Sasaki and Miyano",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-01-28"
+    },
+    {
+      "id": "76177",
+      "name": "Saturday Night Live",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-11-06"
+    },
+    {
+      "id": "311297",
+      "name": "Scarlet Heart: Ryeo",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-10-06"
+    },
+    {
+      "id": "287247",
+      "name": "Schitt's Creek",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 82,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-04-02"
+    },
+    {
+      "id": "393154",
+      "name": "Schmigadoon!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "368358",
+      "name": "Science Fell in Love, So I Tried to Prove It",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "76156",
+      "name": "Scrubs",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "312465",
+      "name": "Second To Last Love (KR)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-02-17"
+    },
+    {
+      "id": "272844",
+      "name": "Secret Love",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-02-23"
+    },
+    {
+      "id": "413654",
+      "name": "See You in My 19th Life",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-07-02"
+    },
+    {
+      "id": "79169",
+      "name": "Seinfeld",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 137,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-06"
+    },
+    {
+      "id": "279529",
+      "name": "Selfie",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-04-14"
+    },
+    {
+      "id": "268156",
+      "name": "Sense8",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-10"
+    },
+    {
+      "id": "436706",
+      "name": "Seoul Busters",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "320188",
+      "name": "Seven First Kisses",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-12-04"
+    },
+    {
+      "id": "371980",
+      "name": "Severance",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 19,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-08-20"
+    },
+    {
+      "id": "76648",
+      "name": "Sex and the City",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 92,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "356317",
+      "name": "Sex Education",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 25,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-06-14"
+    },
+    {
+      "id": "369844",
+      "name": "Shadow and Bone",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-05-09"
+    },
+    {
+      "id": "295837",
+      "name": "Shadowhunters",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 34,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-06"
+    },
+    {
+      "id": "299881",
+      "name": "She Was Pretty",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-25"
+    },
+    {
+      "id": "176941",
+      "name": "Sherlock",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "304316",
+      "name": "Showa Genroku Rakugo Shinju",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-04-11"
+    },
+    {
+      "id": "319127",
+      "name": "Sick Note",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-01"
+    },
+    {
+      "id": "277165",
+      "name": "Silicon Valley",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-01-04"
+    },
+    {
+      "id": "403245",
+      "name": "Silo",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-06-24"
+    },
+    {
+      "id": "315583",
+      "name": "Single by 30",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 4.5,
+      "status": "watching",
+      "addedAt": "2016-11-26"
+    },
+    {
+      "id": "412696",
+      "name": "Skip and Loafer",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-10-23"
+    },
+    {
+      "id": "83653",
+      "name": "Skip Beat!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 25,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-06-18"
+    },
+    {
+      "id": "465973",
+      "name": "Smoking Behind the Supermarket with You",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "396228",
+      "name": "Solos",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-05-25"
+    },
+    {
+      "id": "342849",
+      "name": "Something in the Rain",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-04-15"
+    },
+    {
+      "id": "401948",
+      "name": "Sonny Boy",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-10-25"
+    },
+    {
+      "id": "84963",
+      "name": "Sonny with a Chance",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 47,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-01"
+    },
+    {
+      "id": "82696",
+      "name": "Sons of Anarchy",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "380909",
+      "name": "Soulmates (2020)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-02-09"
+    },
+    {
+      "id": "368667",
+      "name": "Space Force",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 17,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-05-29"
+    },
+    {
+      "id": "452176",
+      "name": "Spice Up Our Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "405920",
+      "name": "SPY x FAMILY",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 48,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-05-03"
+    },
+    {
+      "id": "383275",
+      "name": "Squid Game",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-10-07"
+    },
+    {
+      "id": "435916",
+      "name": "St. Denis Medical",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 36,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "305288",
+      "name": "Stranger Things",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 43,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-08-09"
+    },
+    {
+      "id": "362313",
+      "name": "Street Food",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-05-03"
+    },
+    {
+      "id": "424674",
+      "name": "Strong Girl Nam-soon",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-11-08"
+    },
+    {
+      "id": "320174",
+      "name": "Strong Woman Do Bong-soon",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 4.5,
+      "status": "watching",
+      "addedAt": "2017-03-05"
+    },
+    {
+      "id": "328769",
+      "name": "Strongest Deliveryman",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-08-29"
+    },
+    {
+      "id": "359581",
+      "name": "Stumptown",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-09-26"
+    },
+    {
+      "id": "338186",
+      "name": "Succession",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 39,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-09-07"
+    },
+    {
+      "id": "442227",
+      "name": "Such Brave Girls",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "247808",
+      "name": "Suits",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 135,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "336811",
+      "name": "Suits (KR)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-12-30"
+    },
+    {
+      "id": "326599",
+      "name": "Summer Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-07-02"
+    },
+    {
+      "id": "295759",
+      "name": "Supergirl",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 28,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "78901",
+      "name": "Supernatural",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 327,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "324598",
+      "name": "Suspicious Partner",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 47,
+      "rating": 4.5,
+      "status": "watching",
+      "addedAt": "2017-05-11"
+    },
+    {
+      "id": "421654",
+      "name": "Sweetpea",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "386917",
+      "name": "Tale of the Nine Tailed",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-10-18"
+    },
+    {
+      "id": "368210",
+      "name": "Tales from the Loop",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-04-11"
+    },
+    {
+      "id": "451101",
+      "name": "Tamon's B-Side",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "383203",
+      "name": "Ted Lasso",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 22,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-10-15"
+    },
+    {
+      "id": "175001",
+      "name": "Teen Wolf",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "380010",
+      "name": "Tehran",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-10-22"
+    },
+    {
+      "id": "341269",
+      "name": "Tempted",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-03-25"
+    },
+    {
+      "id": "446276",
+      "name": "Thank You, Next",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "73787",
+      "name": "That '70s Show",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "316842",
+      "name": "The Ancient Magus' Bride",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-01-24"
+    },
+    {
+      "id": "431162",
+      "name": "The Apothecary Diaries",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 46,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-11-02"
+    },
+    {
+      "id": "459793",
+      "name": "The Ba***ds of Bollywood",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "403294",
+      "name": "The Bear",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 34,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-08-28"
+    },
+    {
+      "id": "350075",
+      "name": "The Beauty Inside (2018)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-10-06"
+    },
+    {
+      "id": "327487",
+      "name": "The Best Hit",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 32,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-06-11"
+    },
+    {
+      "id": "80379",
+      "name": "The Big Bang Theory",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 53,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "266189",
+      "name": "The Blacklist",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 252,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-10-24"
+    },
+    {
+      "id": "323385",
+      "name": "The Bold Type",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-05-29"
+    },
+    {
+      "id": "355567",
+      "name": "The Boys",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 41,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-10-20"
+    },
+    {
+      "id": "413188",
+      "name": "The Boys Presents: Diabolical",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-03-02"
+    },
+    {
+      "id": "324595",
+      "name": "The Bride of Habaek",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-07-02"
+    },
+    {
+      "id": "415679",
+      "name": "The Brothers Sun",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "421633",
+      "name": "The Buccaneers (2023)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-11-14"
+    },
+    {
+      "id": "305574",
+      "name": "The Crown",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 93,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-10-29"
+    },
+    {
+      "id": "457635",
+      "name": "The Death of Bunny Munro",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "423618",
+      "name": "The Decameron",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "336522",
+      "name": "The End of the F***ing World",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-01-10"
+    },
+    {
+      "id": "322909",
+      "name": "The Facetale: Cinderia",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-02-05"
+    },
+    {
+      "id": "362496",
+      "name": "The Falcon and The Winter Soldier",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-05-08"
+    },
+    {
+      "id": "463588",
+      "name": "The Fall and Rise of Reggie Dinkins",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "279121",
+      "name": "The Flash (2014)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 53,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "366625",
+      "name": "The Flight Attendant",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 23,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-04-16"
+    },
+    {
+      "id": "454524",
+      "name": "The Fragrant Flower Blooms with Dignity",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "76738",
+      "name": "The Fresh Prince of Bel-Air",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-05-22"
+    },
+    {
+      "id": "315770",
+      "name": "The Gentlemen of Wolgyesu Tailor Shop",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-06-05"
+    },
+    {
+      "id": "297346",
+      "name": "The Girlfriend Experience",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-03-16"
+    },
+    {
+      "id": "348800",
+      "name": "The Good Cop (2018)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-10-16"
+    },
+    {
+      "id": "311711",
+      "name": "The Good Place",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 49,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-12-19"
+    },
+    {
+      "id": "369301",
+      "name": "The Great",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "429983",
+      "name": "The Grimm Variations",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "324988",
+      "name": "The Guardians (2017)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 32,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-05-27"
+    },
+    {
+      "id": "345246",
+      "name": "The Haunting",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-11-16"
+    },
+    {
+      "id": "313533",
+      "name": "The Highschool Life of a Fudanshi",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-09-06"
+    },
+    {
+      "id": "354556",
+      "name": "The Hook Up Plan",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-19"
+    },
+    {
+      "id": "379038",
+      "name": "The Iliza Shlesinger Sketch Show",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-04-09"
+    },
+    {
+      "id": "342883",
+      "name": "The Innocents",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2018-08-25"
+    },
+    {
+      "id": "79216",
+      "name": "The IT Crowd",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 25,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2017-12-20"
+    },
+    {
+      "id": "315324",
+      "name": "The K2",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-10-22"
+    },
+    {
+      "id": "377559",
+      "name": "The King: Eternal Monarch",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-04-19"
+    },
+    {
+      "id": "350869",
+      "name": "The Kominsky Method",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-07"
+    },
+    {
+      "id": "251085",
+      "name": "The Legend of Korra",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 52,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-06-17"
+    },
+    {
+      "id": "312461",
+      "name": "The Legend of the Blue Sea",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2016-11-20"
+    },
+    {
+      "id": "323920",
+      "name": "The Liar and His Lover",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-04-02"
+    },
+    {
+      "id": "293517",
+      "name": "The Lover",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-11-08"
+    },
+    {
+      "id": "299139",
+      "name": "The Magicians (2015)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-06-23"
+    },
+    {
+      "id": "316989",
+      "name": "The Man Living in Our House",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-10-17"
+    },
+    {
+      "id": "334839",
+      "name": "The Many Faces of Ito",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-06-28"
+    },
+    {
+      "id": "326791",
+      "name": "The Marvelous Mrs. Maisel",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 43,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-09-19"
+    },
+    {
+      "id": "79414",
+      "name": "The Melancholy of Haruhi Suzumiya",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-08-17"
+    },
+    {
+      "id": "265505",
+      "name": "The Melancholy of Haruhi Suzumiya (2009)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 28,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-08-20"
+    },
+    {
+      "id": "82459",
+      "name": "The Mentalist",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "95021",
+      "name": "The Middle",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "376211",
+      "name": "The Millionaire Detective – Balance: UNLIMITED",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-05-19"
+    },
+    {
+      "id": "368970",
+      "name": "The Mind, Explained",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-11-24"
+    },
+    {
+      "id": "259007",
+      "name": "The Mindy Project",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 117,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "290508",
+      "name": "The Night Manager",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-01-26"
+    },
+    {
+      "id": "72164",
+      "name": "The O.C.",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 27,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "73244",
+      "name": "The Office (US)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 195,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "266883",
+      "name": "The Originals",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-01-19"
+    },
+    {
+      "id": "320457",
+      "name": "The Package",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-11-17"
+    },
+    {
+      "id": "449872",
+      "name": "The Paper (2025)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "419097",
+      "name": "The Playlist",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-01-05"
+    },
+    {
+      "id": "430020",
+      "name": "The Pradeeps of Pittsburgh",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "275451",
+      "name": "The Prime Minister and I",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-06-12"
+    },
+    {
+      "id": "318670",
+      "name": "The Princess Weiyoung",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-12-17"
+    },
+    {
+      "id": "386020",
+      "name": "The Pursuit of Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "387115",
+      "name": "The Queen's Gambit",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-11-14"
+    },
+    {
+      "id": "453257",
+      "name": "The Royals (2025)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "366211",
+      "name": "The Sandman",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-08-06"
+    },
+    {
+      "id": "297074",
+      "name": "The Scholar Who Walks the Night",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-08-05"
+    },
+    {
+      "id": "372804",
+      "name": "The School Nurse Files",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 6,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-09-26"
+    },
+    {
+      "id": "390161",
+      "name": "The Sex Lives of College Girls",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 45,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-01-17"
+    },
+    {
+      "id": "448147",
+      "name": "The Studio (2025)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "79316",
+      "name": "The Suite Life of Zack & Cody",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 87,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-01"
+    },
+    {
+      "id": "83207",
+      "name": "The Suite Life on Deck",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 49,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2018-05-01"
+    },
+    {
+      "id": "83375",
+      "name": "The Thorn Birds",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2019-10-10"
+    },
+    {
+      "id": "317654",
+      "name": "The Tick (2017)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2017-08-25"
+    },
+    {
+      "id": "431333",
+      "name": "The Trunk",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "79925",
+      "name": "The Tudors",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-03-28"
+    },
+    {
+      "id": "73587",
+      "name": "The Twilight Zone",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "358915",
+      "name": "The Twilight Zone (2019)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-02-26"
+    },
+    {
+      "id": "353764",
+      "name": "The Umbrella Academy",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 36,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-12-27"
+    },
+    {
+      "id": "95491",
+      "name": "The Vampire Diaries",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 151,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "153021",
+      "name": "The Walking Dead",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "391005",
+      "name": "The Way of the Househusband (2021)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-04-10"
+    },
+    {
+      "id": "355730",
+      "name": "The Wheel of Time",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-11-21"
+    },
+    {
+      "id": "390430",
+      "name": "The White Lotus",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 21,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-01-04"
+    },
+    {
+      "id": "310327",
+      "name": "The Windsors",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 18,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-03-21"
+    },
+    {
+      "id": "362696",
+      "name": "The Witcher",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 21,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-01-03"
+    },
+    {
+      "id": "399987",
+      "name": "The Witcher: Blood Origin",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 7,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-12-29"
+    },
+    {
+      "id": "311714",
+      "name": "This Is Us",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-09-26"
+    },
+    {
+      "id": "459453",
+      "name": "To Be Hero X",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "368364",
+      "name": "Toilet-bound Hanako-kun",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-01-24"
+    },
+    {
+      "id": "365994",
+      "name": "Tokyo Alice",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-08-03"
+    },
+    {
+      "id": "281249",
+      "name": "Tokyo Ghoul",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "393478",
+      "name": "Tokyo Revengers",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 33,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-12-30"
+    },
+    {
+      "id": "421994",
+      "name": "Tomo-chan Is a Girl!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 13,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-11-04"
+    },
+    {
+      "id": "317155",
+      "name": "Tomorrow With You",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-02-13"
+    },
+    {
+      "id": "443261",
+      "name": "Too Much",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "260320",
+      "name": "Top of the Lake",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-08-01"
+    },
+    {
+      "id": "83277",
+      "name": "Toradora!",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 25,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-07-01"
+    },
+    {
+      "id": "354835",
+      "name": "Touch Your Heart",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-01-26"
+    },
+    {
+      "id": "360236",
+      "name": "Traveler (2019)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-11-16"
+    },
+    {
+      "id": "314544",
+      "name": "Travelers (2016)",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 34,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-02-03"
+    },
+    {
+      "id": "82283",
+      "name": "True Blood",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 70,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-11"
+    },
+    {
+      "id": "270633",
+      "name": "True Detective",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "425009",
+      "name": "True to Love",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 14,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-07-12"
+    },
+    {
+      "id": "361005",
+      "name": "Tuca & Bertie",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-06-03"
+    },
+    {
+      "id": "351581",
+      "name": "Turn Up Charlie",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-03-19"
+    },
+    {
+      "id": "302302",
+      "name": "TVF Pitchers",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-10"
+    },
+    {
+      "id": "354104",
+      "name": "Twelve Nights",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-10-21"
+    },
+    {
+      "id": "70533",
+      "name": "Twin Peaks",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "281593",
+      "name": "Unbreakable Kimmy Schmidt",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 52,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-06-03"
+    },
+    {
+      "id": "310418",
+      "name": "Uncontrollably Fond",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-06"
+    },
+    {
+      "id": "357756",
+      "name": "Undone",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-09-17"
+    },
+    {
+      "id": "264991",
+      "name": "Utopia",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-01"
+    },
+    {
+      "id": "369026",
+      "name": "Uzumaki",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "81816",
+      "name": "Vampire Knight",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 26,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-06-17"
+    },
+    {
+      "id": "237831",
+      "name": "Veep",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 65,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-11-17"
+    },
+    {
+      "id": "300280",
+      "name": "Versailles (2015)",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-19"
+    },
+    {
+      "id": "302205",
+      "name": "Victoria",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-11-27"
+    },
+    {
+      "id": "260449",
+      "name": "Vikings",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-05-16"
+    },
+    {
+      "id": "330139",
+      "name": "Violet Evergarden",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-02-26"
+    },
+    {
+      "id": "310677",
+      "name": "W",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2016-07-28"
+    },
+    {
+      "id": "362392",
+      "name": "WandaVision",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-02-05"
+    },
+    {
+      "id": "295029",
+      "name": "Warm and Cozy",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-02-28"
+    },
+    {
+      "id": "382544",
+      "name": "Warrior Nun",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-08-03"
+    },
+    {
+      "id": "380221",
+      "name": "We Are Lady Parts",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-11-21"
+    },
+    {
+      "id": "309501",
+      "name": "We're Millennials. Got a problem?",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-10-07"
+    },
+    {
+      "id": "397060",
+      "name": "Wednesday",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2022-12-01"
+    },
+    {
+      "id": "315328",
+      "name": "Weightlifting Fairy Kim Bok-joo",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 5,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-03-26"
+    },
+    {
+      "id": "356940",
+      "name": "Weird City",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-09-21"
+    },
+    {
+      "id": "296762",
+      "name": "Westworld",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 28,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-11-09"
+    },
+    {
+      "id": "367147",
+      "name": "What If…?",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 9,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-12-12"
+    },
+    {
+      "id": "358211",
+      "name": "What We Do in the Shadows",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-06-12"
+    },
+    {
+      "id": "345327",
+      "name": "What's Wrong with Secretary Kim",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-06-07"
+    },
+    {
+      "id": "333764",
+      "name": "When a Woman Chases a Man",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "completed",
+      "addedAt": "2017-09-20"
+    },
+    {
+      "id": "363703",
+      "name": "When the Camellia Blooms",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-09-19"
+    },
+    {
+      "id": "446494",
+      "name": "When the Phone Rings",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "295411",
+      "name": "While You Were Sleeping",
+      "followed": true,
+      "favorite": true,
+      "episodesSeen": 32,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-09-28"
+    },
+    {
+      "id": "108611",
+      "name": "White Collar",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2015-12-27"
+    },
+    {
+      "id": "248951",
+      "name": "Whitney",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 38,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-02-21"
+    },
+    {
+      "id": "422039",
+      "name": "Why Raeliana Ended Up at the Duke's Mansion",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 4,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "418666",
+      "name": "Witch Hat Atelier",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "80726",
+      "name": "Wizards of Waverly Place",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 106,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-05-01"
+    },
+    {
+      "id": "284563",
+      "name": "Wolf Girl & Black Prince",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-10-05"
+    },
+    {
+      "id": "406049",
+      "name": "Work Later, Drink Now",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 24,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2023-01-27"
+    },
+    {
+      "id": "211751",
+      "name": "Workaholics",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 0,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-02-09"
+    },
+    {
+      "id": "320737",
+      "name": "Workin' Moms",
+      "followed": false,
+      "favorite": false,
+      "episodesSeen": 1,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-02-24"
+    },
+    {
+      "id": "325183",
+      "name": "Worth It",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 27,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-10-02"
+    },
+    {
+      "id": "335167",
+      "name": "Worth It - Lifestyle",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-10-02"
+    },
+    {
+      "id": "341425",
+      "name": "Wotakoi: Love Is Hard for Otaku",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 11,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-06-07"
+    },
+    {
+      "id": "412432",
+      "name": "X-Men '97",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "412285",
+      "name": "XO, Kitty",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 25,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "441190",
+      "name": "Yakuza Fiancé: Raise wa Tanin ga Ii",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "352909",
+      "name": "YG Future Strategy Office",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 8,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-10-20"
+    },
+    {
+      "id": "336924",
+      "name": "You",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-02-07"
+    },
+    {
+      "id": "457078",
+      "name": "You and I Are Polar Opposites",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 12,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "280585",
+      "name": "You Are All Surrounded",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 20,
+      "rating": 5,
+      "status": "watching",
+      "addedAt": "2016-10-10"
+    },
+    {
+      "id": "309818",
+      "name": "You Do You",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 28,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-10-29"
+    },
+    {
+      "id": "370833",
+      "name": "You're Not a Monster",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2019-10-15"
+    },
+    {
+      "id": "281776",
+      "name": "You're the Worst",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 10,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": ""
+    },
+    {
+      "id": "328724",
+      "name": "Young Sheldon",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 3,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2018-02-14"
+    },
+    {
+      "id": "280706",
+      "name": "Younger",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 60,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2016-12-28"
+    },
+    {
+      "id": "394254",
+      "name": "Yumi's Cells",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 19,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2021-10-01"
+    },
+    {
+      "id": "317004",
+      "name": "Yuri!!! on Ice",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 16,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2017-04-26"
+    },
+    {
+      "id": "363815",
+      "name": "Zoey's Extraordinary Playlist",
+      "followed": true,
+      "favorite": false,
+      "episodesSeen": 2,
+      "rating": 0,
+      "status": "watching",
+      "addedAt": "2020-02-19"
+    }
+  ]
+}
